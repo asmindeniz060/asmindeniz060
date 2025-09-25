@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Asmin Deniz Kılıçoğlu
+I am Asmin Deniz Kılıçoğlu.
 I am a  freshman at Bilkent University
 
 <!--
